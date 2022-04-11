@@ -1,0 +1,9 @@
+[init]
+	defaultBranch = main
+[user]
+	email = taza@live.se
+	name = swepz
+[pull]
+	rebase = true
+[credential]
+	helper = store

@@ -1,0 +1,90 @@
+{
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "3d4256ea-2034-4dea-92dd-3c96f3b84832",
+        "filter": "author:AutoSail-MDH",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "AutoSail-MDH"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "53dd8b84-a432-4fd5-98c0-f42d582700f3",
+        "filter": "assignee:AutoSail-MDH",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "AutoSail-MDH"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "533557b4-0ca4-4cf0-a3f1-ae93d130b0f5",
+        "filter": "review-requested:AutoSail-MDH",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "AutoSail-MDH"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1f4a9d88-9dc0-4116-b261-9d650dd0923c",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "remoteParents": {}
+}

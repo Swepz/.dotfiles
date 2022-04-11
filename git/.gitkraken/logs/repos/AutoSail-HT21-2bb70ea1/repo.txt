@@ -1,0 +1,97 @@
+[2021-10-08T16:57:56.958Z] Pull WBS: started.
+[2021-10-08T16:57:56.970Z] Fetch remote origin: started
+[2021-10-08T16:57:57.694Z] Fetch remote origin: finished gk-log://duration?t=724
+[2021-10-08T16:57:57.825Z] Merge origin/WBS into WBS: started.
+[2021-10-08T16:57:58.031Z] Merge origin/WBS into WBS: finished. gk-log://duration?t=206
+[2021-10-08T16:57:58.086Z] Pull WBS: finished. gk-log://duration?t=1128
+[2021-10-08T16:58:53.792Z] Rebase WBS onto main: started.
+[2021-10-08T16:58:53.841Z] Rebase WBS onto main: finished. gk-log://duration?t=49
+[2021-10-08T16:59:18.026Z] Checkout refs/heads/main: started.
+[2021-10-08T16:59:18.486Z] Checkout refs/heads/main: finished. gk-log://duration?t=460
+[2021-10-08T16:59:24.266Z] Checkout refs/heads/WBS: started.
+[2021-10-08T16:59:24.508Z] Checkout refs/heads/WBS: finished. gk-log://duration?t=242
+[2021-10-08T17:00:28.428Z] Merge WBS into main: started.
+[2021-10-08T17:00:28.478Z] Merge WBS into main: finished. gk-log://duration?t=50
+[2021-10-08T17:00:43.986Z] Push WBS: started.
+[2021-10-08T17:00:45.070Z] Push WBS: finished. gk-log://duration?t=1084
+[2021-10-08T17:04:33.557Z] Opening Documentation/Control/WBS/2-hardware.puml in built-in merge tool: started.
+[2021-10-08T17:04:33.592Z] Opening Documentation/Control/WBS/2-hardware.puml in built-in merge tool: finished. gk-log://duration?t=35
+[2021-10-08T17:05:21.682Z] Save merged Documentation/Control/WBS/2-hardware.puml: started.
+[2021-10-08T17:05:21.719Z] Save merged Documentation/Control/WBS/2-hardware.puml: finished. gk-log://duration?t=37
+[2021-10-08T17:05:21.801Z] Stage Documentation/Control/WBS/2-hardware.puml for commit: started.
+[2021-10-08T17:05:22.104Z] Stage Documentation/Control/WBS/2-hardware.puml for commit: finished. gk-log://duration?t=303
+[2021-10-08T17:06:07.775Z] Finish merge  into : started.
+[2021-10-08T17:06:07.842Z] Finish merge  into : finished. gk-log://duration?t=67
+[2021-10-08T20:30:41.540Z] Fetch remote origin: failed to resolve address for github.com: Name or service not known
+[2021-11-25T12:00:54.249Z] Pull vessel_orientation: started.
+[2021-11-25T12:00:54.269Z] Fetch remote origin: started
+[2021-11-25T12:00:54.993Z] Fetch remote origin: finished gk-log://duration?t=724
+[2021-11-25T12:00:55.166Z] Merge origin/vessel_orientation into vessel_orientation: started.
+[2021-11-25T12:00:55.184Z] Merge origin/vessel_orientation into vessel_orientation: finished. gk-log://duration?t=18
+[2021-11-25T12:00:55.205Z] Pull vessel_orientation: finished. gk-log://duration?t=956
+[2021-11-25T12:00:55.209Z] Update all submodules: started.
+[2021-11-25T12:00:55.517Z] Update submodule orientation/components/micro_ros_espidf_component: started.
+[2021-11-25T12:00:55.520Z] Update submodule orientation/components/micro_ros_espidf_component: failed to resolve path '/home/swepz/Code/AutoSail-HT21/orientation/components/micro_ros_espidf_component/.git': No such file or directory
+[2021-11-25T12:00:55.524Z] Update submodule orientation/components/micro_ros_espidf_component: finished with errors. gk-log://duration?t=7
+[2021-11-25T12:00:55.543Z] Update all submodules: failed to resolve path '/home/swepz/Code/AutoSail-HT21/orientation/components/micro_ros_espidf_component/.git': No such file or directory
+[2021-11-25T12:00:55.545Z] Update all submodules: finished with errors. gk-log://duration?t=336
+[2021-11-25T12:01:28.219Z] Checkout refs/heads/main: started.
+[2021-11-25T12:01:28.866Z] Checkout refs/heads/main: finished. gk-log://duration?t=647
+[2021-11-25T12:01:49.188Z] Checkout refs/heads/vessel_orientation: started.
+[2021-11-25T12:01:49.365Z] Update all submodules: started.
+[2021-11-25T12:01:49.390Z] Update submodule orientation/components/micro_ros_espidf_component: started.
+[2021-11-25T12:01:49.401Z] Update submodule orientation/components/micro_ros_espidf_component: failed to resolve path '/home/swepz/Code/AutoSail-HT21/orientation/components/micro_ros_espidf_component/.git': No such file or directory
+[2021-11-25T12:01:49.402Z] Update submodule orientation/components/micro_ros_espidf_component: finished with errors. gk-log://duration?t=12
+[2021-11-25T12:01:49.405Z] Update all submodules: failed to resolve path '/home/swepz/Code/AutoSail-HT21/orientation/components/micro_ros_espidf_component/.git': No such file or directory
+[2021-11-25T12:01:49.409Z] Update all submodules: finished with errors. gk-log://duration?t=44
+[2021-11-25T12:01:49.418Z] Checkout refs/heads/vessel_orientation: finished. gk-log://duration?t=230
+[2021-11-25T12:02:00.639Z] Checkout refs/heads/vessel_orientation: started.
+[2021-11-25T12:02:00.694Z] Checkout refs/heads/vessel_orientation: finished. gk-log://duration?t=55
+[2021-11-25T12:02:11.254Z] Checkout refs/heads/main: started.
+[2021-11-25T12:02:11.979Z] Checkout refs/heads/main: finished. gk-log://duration?t=725
+[2021-11-25T12:02:13.381Z] Checkout refs/heads/vessel_orientation: started.
+[2021-11-25T12:02:13.543Z] Update all submodules: started.
+[2021-11-25T12:02:13.557Z] Update submodule orientation/components/micro_ros_espidf_component: started.
+[2021-11-25T12:02:13.589Z] Update submodule orientation/components/micro_ros_espidf_component: failed to resolve path '/home/swepz/Code/AutoSail-HT21/orientation/components/micro_ros_espidf_component/.git': No such file or directory
+[2021-11-25T12:02:13.592Z] Update submodule orientation/components/micro_ros_espidf_component: finished with errors. gk-log://duration?t=35
+[2021-11-25T12:02:13.596Z] Update all submodules: failed to resolve path '/home/swepz/Code/AutoSail-HT21/orientation/components/micro_ros_espidf_component/.git': No such file or directory
+[2021-11-25T12:02:13.599Z] Update all submodules: finished with errors. gk-log://duration?t=56
+[2021-11-25T12:02:13.609Z] Checkout refs/heads/vessel_orientation: finished. gk-log://duration?t=228
+[2021-11-25T12:02:30.118Z] Checkout refs/heads/sig_control_restart: started.
+[2021-11-25T12:02:30.755Z] Checkout refs/heads/sig_control_restart: finished. gk-log://duration?t=637
+[2021-11-25T12:02:31.708Z] Checkout refs/heads/vessel_orientation: started.
+[2021-11-25T12:02:31.854Z] Update all submodules: started.
+[2021-11-25T12:02:31.877Z] Update submodule orientation/components/micro_ros_espidf_component: started.
+[2021-11-25T12:02:31.882Z] Update submodule orientation/components/micro_ros_espidf_component: failed to resolve path '/home/swepz/Code/AutoSail-HT21/orientation/components/micro_ros_espidf_component/.git': No such file or directory
+[2021-11-25T12:02:31.884Z] Update submodule orientation/components/micro_ros_espidf_component: finished with errors. gk-log://duration?t=7
+[2021-11-25T12:02:31.885Z] Update all submodules: failed to resolve path '/home/swepz/Code/AutoSail-HT21/orientation/components/micro_ros_espidf_component/.git': No such file or directory
+[2021-11-25T12:02:31.889Z] Update all submodules: finished with errors. gk-log://duration?t=35
+[2021-11-25T12:02:31.913Z] Checkout refs/heads/vessel_orientation: finished. gk-log://duration?t=205
+[2021-11-25T12:03:00.274Z] Checkout refs/heads/sig_control_restart: started.
+[2021-11-25T12:03:00.845Z] Checkout refs/heads/sig_control_restart: finished. gk-log://duration?t=571
+[2021-11-25T12:03:01.550Z] Checkout refs/heads/vessel_orientation: started.
+[2021-11-25T12:03:01.697Z] Update all submodules: started.
+[2021-11-25T12:03:01.711Z] Update submodule orientation/components/micro_ros_espidf_component: started.
+[2021-11-25T12:03:01.716Z] Update submodule orientation/components/micro_ros_espidf_component: failed to resolve path '/home/swepz/Code/AutoSail-HT21/orientation/components/micro_ros_espidf_component/.git': No such file or directory
+[2021-11-25T12:03:01.719Z] Update submodule orientation/components/micro_ros_espidf_component: finished with errors. gk-log://duration?t=8
+[2021-11-25T12:03:01.723Z] Update all submodules: failed to resolve path '/home/swepz/Code/AutoSail-HT21/orientation/components/micro_ros_espidf_component/.git': No such file or directory
+[2021-11-25T12:03:01.725Z] Update all submodules: finished with errors. gk-log://duration?t=28
+[2021-11-25T12:03:01.732Z] Checkout refs/heads/vessel_orientation: finished. gk-log://duration?t=182
+[2021-11-25T12:04:40.489Z] Opening ROS2/sensor_fusion/sensor_fusion/extended_kalman_filter.py in built-in merge tool: started.
+[2021-11-25T12:04:40.513Z] Opening ROS2/sensor_fusion/sensor_fusion/extended_kalman_filter.py in built-in merge tool: finished. gk-log://duration?t=24
+[2021-11-25T12:05:39.797Z] Save merged ROS2/sensor_fusion/sensor_fusion/extended_kalman_filter.py: started.
+[2021-11-25T12:05:39.812Z] Save merged ROS2/sensor_fusion/sensor_fusion/extended_kalman_filter.py: finished. gk-log://duration?t=15
+[2021-11-25T12:05:39.819Z] Stage ROS2/sensor_fusion/sensor_fusion/extended_kalman_filter.py for commit: started.
+[2021-11-25T12:05:40.305Z] Stage ROS2/sensor_fusion/sensor_fusion/extended_kalman_filter.py for commit: finished. gk-log://duration?t=486
+[2021-11-25T12:05:41.856Z] Opening ROS2/sensor_fusion/sensor_fusion/main.py in built-in merge tool: started.
+[2021-11-25T12:05:41.877Z] Opening ROS2/sensor_fusion/sensor_fusion/main.py in built-in merge tool: finished. gk-log://duration?t=21
+[2021-11-25T12:06:09.442Z] Save merged ROS2/sensor_fusion/sensor_fusion/main.py: started.
+[2021-11-25T12:06:09.465Z] Save merged ROS2/sensor_fusion/sensor_fusion/main.py: finished. gk-log://duration?t=21
+[2021-11-25T12:06:09.693Z] Stage ROS2/sensor_fusion/sensor_fusion/main.py for commit: started.
+[2021-11-25T12:06:10.079Z] Stage ROS2/sensor_fusion/sensor_fusion/main.py for commit: finished. gk-log://duration?t=386
+[2021-11-25T12:06:12.226Z] Opening .gitignore in built-in merge tool: started.
+[2021-11-25T12:06:12.248Z] Opening .gitignore in built-in merge tool: finished. gk-log://duration?t=22
+[2021-11-25T12:06:21.110Z] Save merged .gitignore: started.
+[2021-11-25T12:06:21.126Z] Save merged .gitignore: finished. gk-log://duration?t=16
+[2021-11-25T12:06:21.136Z] Stage .gitignore for commit: started.
+[2021-11-25T12:06:21.469Z] Stage .gitignore for commit: finished. gk-log://duration?t=333
