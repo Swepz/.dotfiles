@@ -1,0 +1,2 @@
+# Dotfiles management using stow
+
