@@ -193,7 +193,7 @@ ctrl + shift + Print
 #################################################################
 
 #xfce4-terminal dropdown
-0xA7
+F12
     xfce4-terminal --drop-down
 
 
