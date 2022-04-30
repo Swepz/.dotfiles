@@ -1,0 +1,1 @@
+/home/swepz/.config/ezsh/todo/todo.sh

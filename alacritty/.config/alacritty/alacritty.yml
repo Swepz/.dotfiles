@@ -13,7 +13,7 @@ font:
   bold_italic:
     family: monospace
     style: Bold Italic
-  size: 14
+  size: 10
 colors:
   name: Neon
   author: ""
