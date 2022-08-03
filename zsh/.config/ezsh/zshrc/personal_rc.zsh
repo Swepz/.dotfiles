@@ -13,3 +13,14 @@
 alias lcd="cd"
 alias cd..="cd .."
 alias lll="ls -latr"
+
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=()
+
+# more prompt elements that are suggested
+# (public_ip docker_machine pyenv nvm)          https://github.com/bhilburn/powerlevel9k#prompt-customization
+# Note: using public_ip is cool but when connection is down prompt waits for 10-20 seconds
+
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(ssh dir vcs)
+
+POWERLEVEL9K_PROMPT_ON_NEWLINE=false
+

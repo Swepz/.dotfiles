@@ -20,13 +20,13 @@ POWERLEVEL9K_DIR_HOME_FOREGROUND="white"
 POWERLEVEL9K_DIR_HOME_SUBFOLDER_FOREGROUND="white"
 POWERLEVEL9K_DIR_DEFAULT_FOREGROUND="white"
 
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=()
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status command_execution_time background_jobs ram load rvm time)
 
 # more prompt elements that are suggested
 # (public_ip docker_machine pyenv nvm)          https://github.com/bhilburn/powerlevel9k#prompt-customization
 # Note: using public_ip is cool but when connection is down prompt waits for 10-20 seconds
 
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(ssh dir vcs)
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(ssh os_icon context dir vcs)
 
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 
@@ -86,18 +86,18 @@ plugins=(
     z
     sudo
     # httpie
-    git
-    python
-    docker
+    # git
+    # python
+    # docker
     # lol
-    pip
-    pyenv
+    # pip
+    # pyenv
     # redis-cli
     # zsh-wakatime          # enable if you use wakatime with 'https://github.com/wbingli/zsh-wakatime'
     )
 #plugins+=(zsh-nvm)
 
-# source $ZSH/oh-my-zsh.sh          # This is now run in .zshrc after importing user configs from ~/.config/ezsh/zshrc/* files
+# source $ZSH/oh-my-zsh.sh          # This is now run in .zshrc after importing user configs from ~/.config/ezsh/zshrc/* files 
 
 # User configuration
 

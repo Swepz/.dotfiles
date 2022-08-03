@@ -20,14 +20,14 @@ super + e
 
 #Browser
 super + w
-    brave
+    firefox
 
 super + shift + w
-  brave --private-window
+  firefox --private-window
 
 #arcolinux-logout
 super + x
-    arcolinux-logout
+    archlinux-logout
 
 # Ranger
 super + r
