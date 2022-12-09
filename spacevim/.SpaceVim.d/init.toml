@@ -1,7 +1,7 @@
 #=============================================================================
 # dark_powered.toml --- dark powered configuration example for SpaceVim
-# Copyright (c) 2016-2021 Wang Shidong & Contributors
-# Author: Wang Shidong < wsdjeg at 163.com >
+# Copyright (c) 2016-2022 Wang Shidong & Contributors
+# Author: Wang Shidong < wsdjeg@outlook.com >
 # URL: https://spacevim.org
 # License: GPLv3
 #=============================================================================
@@ -11,7 +11,8 @@
     # set spacevim theme. by default colorscheme layer is not loaded,
     # if you want to use more colorscheme, please load the colorscheme
     # layer
-    colorscheme = "gruvbox"
+    # colorscheme = "gruvbox"
+    colorscheme = "material"
     colorscheme_bg = "dark"
     # Disable guicolors in basic mode, many terminal do not support 24bit
     # true colors
@@ -24,6 +25,8 @@
     enable_tabline_filetype_icon = true
     enable_statusline_mode = false
 
+
+
 # Enable autocomplete layer
 [[layers]]
 name = 'autocomplete'
@@ -34,3 +37,36 @@ auto_completion_tab_key_behavior = "smart"
 name = 'shell'
 default_position = 'top'
 default_height = 30
+
+
+[[layers]]
+  name = "lang#python"
+
+[[layers]]
+    name = 'lang#c'
+    enable_clang_syntax_highlight = true
+
+[[custom_plugins]]
+    repo = "lilydjwg/colorizer"
+    merged = false
+
+[options]
+    project_rooter_outermost = false
+
+[[layers]]
+    name = "denite"
+
+[[layers]]
+    name = 'git'
+[[layers]]
+    name = 'VersionControl'
+
+
+[[layers]]
+  name = "lang#latex"
+
+[[layers]]
+  name = "lang#markdown"
+
+[[layers]]
+  name = "lang#plantuml"
